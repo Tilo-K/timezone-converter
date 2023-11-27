@@ -7,6 +7,7 @@ const timezones: { [id: string]: number } = {
   CST: -6,
   CDT: -5,
   EST: -5,
+  ET: -5,
   EDT: -4,
   AKST: -9,
   AKDT: -8,

@@ -3,7 +3,7 @@
 
   "name": "Timezone Converter",
   "description": "Converting timezones is hard. This extension makes it easy.",
-  "version": "1.1",
+  "version": "1.2",
 
   "action": {
     "default_icon": "icon.png",
